@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Baalveer's Personal Webpage</title>
+  <title>Saad's Personal Webpage</title>
   <style>
     body {
       background: linear-gradient(to right, #83a4d4, #b6fbff);
@@ -76,22 +76,22 @@
 <body>
 
   <header>
-    <h1>Welcome to Baalveer's World!</h1>
+    <h1>Welcome to saad's World!</h1>
   </header>
 
   <div class="content">
     <div class="card">
-      <img src="https://via.placeholder.com/150" alt="Baalveer's photo">
-      <h2>Baalveer (Saad Shaikh)</h2>
-      <p>Hi! I'm a student of Class 6A at OLIV Orchid International School. I love adventure, stories, and learning cool things—just like Aladin and Baalveer!</p>
+      <img src="https://via.placeholder.com/150" alt="saad's photo">
+      <h2>saad Shaikh </h2>
+      <p>Hi! I'm a student of Class 7A at OLIV Orchid International School. I love adventure, stories, and learning cool things—just like scientists and exploring!</p>
       <p><strong>Hobbies:</strong> Acting, stunts, exploring, and storytelling.</p>
-      <p><strong>Dream:</strong> To become a hero like Siddharth Nigam!</p>
+      <p><strong>Dream:</strong> To become a hero like veer!</p>
       <p><strong>Email:</strong> yourname@email.com</p>
     </div>
   </div>
 
   <footer>
-    &copy; 2025 Baalveer | All rights reserved
+    &copy; 2025 Saad | All rights reserved
   </footer>
 
 </body>
