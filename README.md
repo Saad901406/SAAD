@@ -86,7 +86,7 @@
       <p>Hi! I'm a student of Class 7A at OLIV Orchid International School. I love adventure, stories, and learning cool things—just like scientists and exploring!</p>
       <p><strong>Hobbies:</strong> Acting, stunts, exploring, and storytelling.</p>
       <p><strong>Dream:</strong> To become a hero like veer!</p>
-      <p><strong>Email:</strong> yourname@email.com</p>
+      <p><strong>Email:</strong> ssaaad7860@gmail.com</p>
     </div>
   </div>
 
