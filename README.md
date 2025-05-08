@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<meta name="google-site-verification" content="6rRvt924hyfFwKb2ClfFn0GC-GlBwAzMfT70ieKGkg0" /><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
